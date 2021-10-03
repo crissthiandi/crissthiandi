@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## I'm an actuary, Developer attempt, and Mathematical!
 
-- 🐣 I'm always trying to learn something new 😂
+- 🐣 I'm always trying to learn something new
 - 💻 I'm always thinking about how to abstract the problems and make a tecnical aproach.
 -  2021 Goals:
     - 🔥 Learn more about Open Source projects and try to contribute to it ⛲
     - ✍️ Document my repositories in English.
     - ⚔️ Make a public version to share my work in private repositories.
-- ⚡️ Fun fact: I like philosophy 💛
+- ⚡️ 🔭 Fun fact: I like philosophy 💛
   
 ## Connect with me
 
