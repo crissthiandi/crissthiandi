@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Cristhian 👋
 
-## I'm an actuary, Developer attempt, and Mathematical!
+## I'm an actuary, Developer attempt, and Mathematician!
 
 - 🐣 I'm always trying to learn something new
 - 💻 I'm always thinking about how to abstract the problems and make a tecnical aproach.
