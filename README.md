@@ -1,17 +1,3 @@
-<!--
-**crissthiandi/crissthiandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Hi there, I'm Cristhian 👋
 
@@ -19,11 +5,12 @@ Here are some ideas to get you started:
 
 - 🐣 I'm always trying to learn something new
 - 💻 I'm always thinking about how to abstract the problems and make a tecnical aproach.
--  2021 Goals:
+-  Goals:
     - 🔥 Learn more about Open Source projects and try to contribute to it ⛲
     - ✍️ Document my repositories in English.
     - ⚔️ Make a public version to share my work in private repositories.
-- ⚡️ 🔭 Fun fact: I like philosophy 💛
+
+I've skills in software and data analysis. I enjoy contributing to math and software. I also do web development with connectors to SAP.
   
 ## Connect with me
 
@@ -47,7 +34,21 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/{crissthiandi}/count.svg" width="0.0001" height="0.0001"/>
 
 <br>
- 
+
+## SKILLS AND ABILITIES
+
+### Data Analysis & Process Automation (5 years)
+Experiencia desarrollando código para análisis de datos y automatización de procesos:
+* **Languages & Frameworks:** Python (TensorFlow, PyTorch), R (RMarkdown, Quarto), C# (Backend), JavaScript (HTML/CSS, Vue.js, Express.js).
+* **BI & Dashboards:** Shiny Apps (Appsilon technology), Power BI, PowerPivot, VBA/Excel.
+* **Tools:** Git & SQL.
+* **Key Projects:** Author and Maintainer of **TSRutina** software/assistant and **ForecastStudio Company**.
+
+### Web Development (3 years)
+Enfoque principal en desarrollo Backend y Microservicios:
+* **Backend:** Node.js (Express.js, NestJS), .NET Framework y C#.
+* **Cloud (GCP):** Google Cloud Platform (Compute Engine, Cloud SQL, App Engine).
+* **Frontend:** Vue.js y Shiny Apps (R y Python).
 
  
 <!-- Abbreviationss -->
